@@ -9,4 +9,5 @@ def happy_birthday(birthday_kids)
     puts "Happy Birthday #{name}! You are now #{age} years old!"
     age < 12 || age == 12
   end
+  end
 end
