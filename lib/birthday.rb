@@ -9,7 +9,7 @@ def happy_birthday(birthday_kids)
     if name != "Amanada"
     puts "Happy Birthday #{name}! You are now #{age} years old!"
   end
-  bir
+  birthday_kids
 end
 
 
