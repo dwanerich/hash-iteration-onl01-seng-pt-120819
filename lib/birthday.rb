@@ -6,8 +6,7 @@
 
 def happy_birthday(birthday_kids)
   birthday_kids.each do |name, age|
-    if name != "Amanada"
-    puts "Happy Birthday #{name}! You are now #{age} years old!"
+    if 
+    puts "Happy Birthday #{name}! You are now #{age} years old!" if age < 13
   end
-  birthday_kids
 end
